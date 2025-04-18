@@ -7,7 +7,6 @@ author: Abdul
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-import scienceplots
 import matplotlib as mpl
 import pandas as pd
 from scipy.signal import savgol_filter
